@@ -70,7 +70,8 @@ function App() {
         <Button onClick={handleClick} label="2" />
         <Button onClick={handleClick} label="3" />
         <Button operation onClick={handleClick} label="+" />
-        <Button triple onClick={handleClick} label="0" />
+        <Button double onClick={handleClick} label="0" />
+        <Button onClick={handleClick} label="." />
         <Button operation onClick={handleEvaluate} label="=" />
       </View>
     </SafeAreaView>
