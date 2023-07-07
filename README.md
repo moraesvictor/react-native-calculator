@@ -8,6 +8,8 @@
 - Automatic evaluation of expressions and display of the result.
 - Clear button (AC) to reset the input and start fresh.
 
+![Calculator App Screenshot](screenshot.png)
+
 ## Technologies Used
 
 - React Native: A popular JavaScript framework for building native mobile apps.
