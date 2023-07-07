@@ -8,7 +8,7 @@
 - Automatic evaluation of expressions and display of the result.
 - Clear button (AC) to reset the input and start fresh.
 
-![Calculator App Screenshot](screenshot.png)
+![Calculator App Screenshot](screenshot.PNG)
 
 ## Technologies Used
 
