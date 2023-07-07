@@ -8,12 +8,11 @@
 - Automatic evaluation of expressions and display of the result.
 - Clear button (AC) to reset the input and start fresh.
 
-![Calculator App Screenshot](screenshot.png)
+![Calculator App Screenshot](screenshot.PNG)
 
 ## Technologies Used
 
 - React Native: A popular JavaScript framework for building native mobile apps.
-- Expo: A set of tools and services for developing and deploying React Native applications.
 - JavaScript: The programming language used to write the calculator logic.
 - JSX: A syntax extension for JavaScript used to define the app's user interface.
 - CSS: Styling the components and layout of the calculator.
@@ -26,7 +25,7 @@ To run the calculator app on your local machine, follow these steps:
 2. Navigate to the project directory: `cd react-native-calculator`
 3. Install the dependencies: `npm install` or `yarn install`
 4. Start the development server: `npm start` or `yarn start`
-5. Open the app on your Android or iOS device using the Expo Go app or an emulator.
+5. Open the app on your Android or iOS device using an emulator.
 
 ## Contributions and Support
 
