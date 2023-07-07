@@ -13,7 +13,6 @@
 ## Technologies Used
 
 - React Native: A popular JavaScript framework for building native mobile apps.
-- Expo: A set of tools and services for developing and deploying React Native applications.
 - JavaScript: The programming language used to write the calculator logic.
 - JSX: A syntax extension for JavaScript used to define the app's user interface.
 - CSS: Styling the components and layout of the calculator.
